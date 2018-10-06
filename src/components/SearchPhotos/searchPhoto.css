@@ -1,0 +1,14 @@
+
+.text_align_center {
+    text-align: center;
+}
+
+.format_total {
+    margin-left: 75px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.margin_left_75 {
+    margin-left: 75px;
+}

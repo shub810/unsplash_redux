@@ -1,0 +1,12 @@
+.infinite_scroll {
+    height: 256px;
+    overflow:auto;
+}
+
+.margin_right_5 {
+    margin-right: 5px;
+}
+
+.border_none {
+    border: none;
+}
